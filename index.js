@@ -1,4 +1,4 @@
-const lineNotify = require('line-notify-nodejs')('1NYKIWBXRSELcAaYQNh7BD7nfBboG4uFppP1UjMDYmY');
+const lineNotify = require('line-notify-nodejs')('1NYKIWBXRSELcAa1YQNh7BD7nfBboG4uFppP1UjMDYmY');
 const getJSON = require('get-json')
 const dotenv = require('dotenv');
 dotenv.config();
