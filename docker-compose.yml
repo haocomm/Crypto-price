@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+
+   blink-price-bot:
+    container_name: blink-price-bot
+    build: .
+    image: blink-price-bot
+    restart: always
